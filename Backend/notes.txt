@@ -1,0 +1,64 @@
+populates all the functions
+INSTALLING PACKAGES
+----------------------------------------------------------------
+npx create-react-app movies 
+cd movies
+npm start
+----------------------------------------------------------
+res - get user details
+
+(response)
+
+
+
+
+-----------------------
+material ui  - same as bootstrap
+TO INSTALL MATERIAL UI
+-----------------------
+cd movies
+npm install @mui/material @emotion/react @emotion/styled
+-----------------------------
+material ui
+app bar
+ctrl+F
+
+tool bar
+
+npm install bycryptjs
+
+icon installation
+-----------------------------
+npm install @mui/icons-material
+
+ npm i axios
+ axios - store response
+ npm i react-router-dom
+
+
+
+PACKAGES
+terminal
+npm install cors
+
+sx is used for superset in css like margin padding
+
+
+
+first admin login in postman
+http://localhost:4000/admin/signup
+http://localhost:4000/admin/login
+then add movies
+then move to movies
+then book now
+then move to user
+then move to user-admin
+then automatically when to move to admin and login it will show in user
+
+
+move to http://localhost:4000/auth
+give name, email, password
+then book movies
+then move to user
+user will display
+
